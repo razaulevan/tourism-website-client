@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "place": "Sundarban",
+        "name": "Dr. Razaul Karim",
+        "cost": "10000",
+        "description": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh's division of Khulna.",
+        "plan": "Water transport is the only means of communication for visiting the Sundarbans from Khulna or Mongla Port. Private motor launch, speedboats, country boats as well as mechanized vessel of Mongla Port Authority might be hired for the purpose. From Dhaka visitors may travel by air, road or rocket steamer to Khulna – the gateway to the Sundarbans. Most pleasant journey from Dhaka to Khulna is by Paddle Steamer, Rocket presenting a picturesque panorama of rural Bangladesh. Day and nightlong coach services by road are also available. The quickest mode is by air.",
+        "img": "https://i.natgeofe.com/n/a50f7239-ff6d-4874-9448-25d94d8d1c80/sundarbans-bangladesh.jpg"
+    },
+    {
+        "id": 2,
+        "place": "SaintMartin",
+        "name": "Dr. Abul Bashar",
+        "cost": "9000",
+        "description": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. There is a small adjoining island that is separated at high tide, called Chera Dwip.",
+        "plan": "By plane you have to reach firstly in Cox's Bazar from Dhaka/Chittagong (Inter-country) by Biman Bangladesh Airlines or with Private Airlines such as Regent Airlines, United Airways, Best Air etc. The fare from Dhaka-Cox's Bazar is around BDT 3000-4500 as of December, 2011. Cox's Bazar airport is the closest airport to Teknaf. After reaching Cox's Bazar by Plane, from Cox's Bazar there are several ways to travel to Teknaf. There are private cars for rental services and cost approximately BDT 100-150. There are public buses which start from Cox's Bazar to Teknaf and cost BDT 60-80. Another way would be a group rental of a mid-level micro bus or jeep to travel to Teknaf which may cost less and be a safer journey.",
+        "img": "https://live.staticflickr.com/1482/24161322546_1019cebb0c_b.jpg"
+    },
+    {
+        "id": 3,
+        "place": "Sajek Valley",
+        "name": "Dr. Shihab Ulllah",
+        "cost": "10000",
+        "description": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river. The road to Sajek has high peaks and falls.",
+        "plan": "Dhaka To Khagrachari (Sajek):Though Sajek is located in the Rangamati district, it is much easier to travel with Dighinalala of Khagrachari district. So first you have to come to Khagrachari. If you want to go to Khagrachari from Dhaka, you can go by Saudia Paribahan, Shyamoli, Shanti Paribahan, S. Alam, Eagle, etc. on the bus. It will cost you nearly BDT 520 in the Non-AC bus. If you want to go to the AC bus you will find BRTC or Saint Martin Paribahan with BDT 700 to 900. Besides, the Shanti Paribahan goes directly to Dighinala and it takes only BDT 580. There are counters of these buses at various points of the city including Gabtali, Kalabagan in Dhaka. If you want to go on holiday, it may be difficult to get a ticket if you don’t buy the ticket before.Khagrachari To Sajek:The distance between Khagrachari and Sajek is about 70 km. You can visit Sajek Valley by reserving Jeep Gari/Chander Gari from Khagrachari. It will cost you BDT 8000 to 10000 with the returning fare. It is perfect for 12 to 15 people. But if you are in a small group, then join with another group to reduce the cost. If it is not possible to find any other group, then you can take CNG. It will cost you BDT from 4000 to 5000. However, it is better not to travel by CNG as the road is very wavy.Besides, if you are alone or only 2-3, then many groups are available from the Khagrachari Shapla Chattor, where you can talk to other groups or share your incidents with the Zip Association office, they will manage another group for you. Apart from you can visit Sajek going Khagrachari to Dighinala first. It is 23km from Khagrachari to Dighinala. It takes BDT 45 on the bus and BDT 100 per person in a motorcycle. You can also reserve a motorcycle to travel Sajek. Before hiring any car/bike, discuss in details about what would you do and what to look.",
+        "img": "https://tourrom.com/wp-content/uploads/2019/01/Discover-sajek-valley.jpg"
+    },
+    {
+        "id": 4,
+        "place": "Bandarban",
+        "name": "Dr. Mehedi Hasan",
+        "cost": "12000",
+        "description": "These are specialized wards that deal with admitted patients suffering from neurological problems, cancer, or pregnancy and reproductive complications, respectively.",
+        "plan": "There are three ways to get to Bandarban. The easiest is a direct bus ride from Dhaka which takes 6 hours. The few services available are Dolphin at Kalabagan, Unique service, Shyamoli Paribahan at Gabtali, Asad gate, Fakirerpul, Kamlapur, Saydabad and S Alam at Kamalapur. On the high tourist season it is advisable to buy tickets in advance. To Chittagong goes bus in every half hour Tk. 110. To Dhaka goes direct bus at 9:15am and 9:15pm Tk. 620.There are a few services available that offer a bus ride from Chittagong which takes 2 hours (the most available is Purbani at Bahaddarhaat). To reach Chittagong from Dhaka there are three options - taking a flight (Bangladesh Biman, United Airways, Regent Air, or Novo Air), a bus ride (Sohag is undoubtedly the best service, available at Kalabagan and Mahakhali) or a train ride from Kamalapur (Turna Nishitha, Mahanagar Godhuli and Subarna).From Cox's Bazar, it is a 3-hour busride (the most available is Purbani at Laaldighi). To reach Cox's Bazaar from Dhaka it is possible take either a 10-hour bus ride (Sohag is the best) or a flight (Bangladesh Biman or GMG airlines).It is possible to get to Bandarban directly from Rangamati by way of Chandraghona, but the perilous route is not advisable at all.",
+        "img": "https://live.staticflickr.com/1902/45184527901_124f4da7a6_b.jpg"
+    },
+    {
+        "id": 5,
+        "place": "Rangamati",
+        "name": "Dr. Abdul Karim",
+        "cost": "6000",
+        "description": "Rangamati is the most popular destination in the Chittagong Hill Tracts for Bangladeshi visitors, who come to enjoy the scenic splendour of Kaptai Lake, the country’s largest artificial lake, which was created in 1960 for hydroelectricity. The lake, dotted with islands, is unquestionably beautiful, and a boat trip across it is a fantastic way to spend a day out here, but it’s worth knowing that approximately 100,000 Adivasis – mostly Chakma – were displaced when it was created, and around 40% of the land they previously cultivated was submerged forever.",
+        "plan": "You can come to Rangamati by bus from Chittagong there is one direct bus Paharica starts from Chittagong at 8:00 AM to 8:00 PM and from Rangamati at 8:00 AM to 8:50 PM in every one hour interval and takes around 2.5 hours. The Paharica bus fare is 120tk (as of April 2014) and you can get the tickets from Muradpur, Oxygen Mor. There are lots of local buses towards Rangamati from the same Oxygen but those buses stops at any point where there is passenger which overloads the bus all-times and takes 3 hours journey. There are a few direct buses from the capital Dhaka. These buses are not air conditioned. There are some local buses from the nearby districts. You can also drive into Rangamati from Chittagong.Foreigners are required to register while entering Rangamati.",
+        "img": "https://ttg.com.bd/uploads/tours/hotels/278_003jpg.jpg"
+    },
+    {
+        "id": 6,
+        "place": "Nijum Dwip",
+        "name": "Dr. Rashed Hossain",
+        "cost": "4000",
+        "description": "Nijhum Dwip is a small island under Hatiya upazila. It is situated in Noakhali District in Bangladesh. Once it was called Char Osmani, Baluar Char, Golden Island A cluster of islands emerged in the early 1950s as an alluvium in the shallow estuary of the Bay of Bengal on the south of Noakhali.",
+        "plan": "n the south of Bangladesh, a smattering of islands sits at the intersection of the Meghna river and the Bay of Bengal. Nijhum Dwip, which means “Silent Island”, is a small island at the southern tip of Hatiya sub-district. Though a decent number of domestic tourists make it down to the island, it’s not well known to foreigners.The Silent Island is best known for its national park with a significant spotted deer population. Pleasant as the park was, I found the island more notable for its remote location and the friendliness of its people. I was on a mission to find a green place where I could wander around and enjoy Bangladeshi village life, and on Nijhum Dwip, it was all too easy.",
+        "img": "https://s0.wklcdn.com/image_20/605439/6337921/3522855Master.jpg"
+    }
+]
